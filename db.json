@@ -1,6 +1,6 @@
 {
   "pages": [
-    "lastPage": 4,
+    "lastPage": "4",
     { "id": 1, 
       "videos": [
         { "id": 1, "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" },
